@@ -10,6 +10,10 @@ var saidDoh = [true, false, false, false, true];
 //Adds a given element into end of array
 saidDoh.push(true);
 
+//Idex positions for simpsons. Index 0 is Homer, index 1 is Marge, index 2
+//is Lisa, index 3 is Bart, index 4 is Maggie. There are 5 elements however,
+//it counts from 0-4
+
 console.log(simpsons);
 console.log(donutBoxes);
 console.log(saidDoh);
